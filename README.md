@@ -1,4 +1,4 @@
-# Frontend Mentor - Social proof section solution
+# Blog de Cafe - Proyect 
 
 
 ## Table of contents
@@ -17,54 +17,40 @@
 
 ## Overview
 
-This is a solution to the [Social proof section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-proof-section-6e0qTv_bA). 
+This is a coffee blog project built by me in my internship hours.
 
-### The challenge
 
-This is a solution to the challenge was to build a social proof section using html and css.
+### The proyect
 
+This development is a cafe blog prepared as a practice project to demonstrate my knowledge of HTML5 and CSS3.
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://solutionmych.netlify.app/)
+- Live Site URL: [Add live site URL here](https://blogdcfe.netlify.app/index.html)
 
 ## My process
 
-my process was quick at the beginning but it takes a lot of time when I made the adjustments for a design; or liable.
+first visit other blogs, I got the necessary resources for the project. in second place. I started building the structure in html5 and finally styled it with css3.
 
 ### Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
+- Normalize.css
 - Flexbox
 - CSS Grid
+- Modernizr.js
 - Mobile-first workflow
-
-
-
-### What I learned
-
-Some CSS code I'm proud of
-   
-.star1 {
-    background-color: hsl(300, 24%, 96%);
-    font-family: 'Spartan', sans-serif; 
-    font-weight: 100;
-    color: hsl(300, 43%, 22%); 
-    height: 70px;
-    margin-bottom: 20px;
-    border-radius: 5px;
-    max-width: 99%;}
 
 
 ### Continued development
 
-I would like to focus on the area of ​​the grid and how to make better responsible designs
+I would like to focus on the area of animation area with javascript
+
 
 
 ## Author
 
-- Website - [Add your name here](https://solutionmych.netlify.app/)
-- Frontend Mentor - [@Gerson107](https://www.frontendmentor.io/profile/Gerson107)
+- Website - [Add Site URL](https://blogdcfe.netlify.app/index.html)
+
